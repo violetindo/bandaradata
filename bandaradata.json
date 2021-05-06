@@ -1,0 +1,314 @@
+[
+        {
+            "id": "1",
+            "bandara": "Bandar Udara Internasional Soekarno–Hatta",
+            "provinsi": "Banten",
+            "kota": "Tangerang"
+        },
+        {
+            "id": "2",
+            "bandara": "Bandar Udara Internasional Ngurah Rai",
+            "provinsi": "Bali",
+            "kota": "Denpasar"
+        },
+        {
+            "id": "3",
+            "bandara": "Bandar Udara Internasional Juanda",
+            "provinsi": "Jawa Timur",
+            "kota": "Surabaya"
+        },
+        {
+            "id": "4",
+            "bandara": "Bandar Udara Internasional Sultan Hasanuddin",
+            "provinsi": "Sulawesi Selatan",
+            "kota": "Makassar"
+        },
+        {
+            "id": "5",
+            "bandara": "Bandar Udara Internasional Kualanamu",
+            "provinsi": "Sumatra Utara",
+            "kota": "Medan"
+        },
+        {
+            "id": "6",
+            "bandara": "Bandar Udara Internasional Adisutjipto",
+            "provinsi": "Daerah Istimewa Yogyakarta",
+            "kota": "Yogyakarta"
+        },
+        {
+            "id": "7",
+            "bandara": "Bandar Udara Sultan Aji Muhammad Sulaiman",
+            "provinsi": "Kalimantan Timur",
+            "kota": "Balikpapan"
+        },
+        {
+            "id": "8",
+            "bandara": "Bandar Udara Halim Perdanakusuma",
+            "provinsi": "DKI Jakarta",
+            "kota": "Jakarta"
+        },
+        {
+            "id": "9",
+            "bandara": "Bandar Udara Internasional Hang Nadim",
+            "provinsi": "Kepulauan Riau",
+            "kota": "Batam"
+        },
+        {
+            "id": "10",
+            "bandara": "Bandar Udara Internasional Sultan Mahmud Badaruddin II",
+            "provinsi": "Sumatra Selatan",
+            "kota": "Palembang"
+        },
+        {
+            "id": "11",
+            "bandara": "Bandar Udara Internasional Jenderal Ahmad Yani",
+            "provinsi": "Jawa Tengah",
+            "kota": "Semarang"
+        },
+        {
+            "id": "12",
+            "bandara": "Bandar Udara Internasional Husein Sastranegara",
+            "provinsi": "Jawa Barat",
+            "kota": "Bandung"
+        },
+        {
+            "id": "13",
+            "bandara": "Bandar Udara Internasional Supadio",
+            "provinsi": "Kalimantan Barat",
+            "kota": "Pontianak"
+        },
+        {
+            "id": "14",
+            "bandara": "Bandar Udara Internasional Lombok",
+            "provinsi": "Nusa Tenggara Barat",
+            "kota": "Mataram"
+        },
+        {
+            "id": "15",
+            "bandara": "Bandar Udara Internasional Sultan Syarif Kasim II",
+            "provinsi": "Riau",
+            "kota": "Pekanbaru"
+        },
+        {
+            "id": "16",
+            "bandara": "Bandar Udara Internasional Minangkabau",
+            "provinsi": "Sumatra Barat",
+            "kota": "Padang"
+        },
+        {
+            "id": "17",
+            "bandara": "Bandar Udara Syamsudin Noor",
+            "provinsi": "Kalimantan Selatan",
+            "kota": "Banjarmasin"
+        },
+        {
+            "id": "18",
+            "bandara": "Bandar Udara Sam Ratulangi",
+            "provinsi": "Sulawesi Utara",
+            "kota": "Manado"
+        },
+        {
+            "id": "19",
+            "bandara": "Bandar Udara Radin Inten II",
+            "provinsi": "Lampung",
+            "kota": "Bandar Lampung"
+        },
+        {
+            "id": "20",
+            "bandara": "Bandar Udara Internasional Adisumarmo",
+            "provinsi": "Jawa Tengah",
+            "kota": "Solo"
+        },
+        {
+            "id": "21",
+            "bandara": "Bandar Udara Internasional Sentani",
+            "provinsi": "Papua",
+            "kota": "Jayapura"
+        },
+        {
+            "id": "22",
+            "bandara": "Bandar Udara Depati Amir",
+            "provinsi": "Bangka Belitung",
+            "kota": "Pangkal Pinang"
+        },
+        {
+            "id": "23",
+            "bandara": "Bandar Udara El Tari",
+            "provinsi": "Nusa Tenggara Timur",
+            "kota": "Kupang"
+        },
+        {
+            "id": "24",
+            "bandara": "Bandar Udara Sultan Thaha",
+            "provinsi": "Jambi",
+            "kota": "Kota Jambi"
+        },
+        {
+            "id": "25",
+            "bandara": "Bandar Udara Domine Eduard Osok",
+            "provinsi": "Papua Barat",
+            "kota": "Sorong"
+        },
+        {
+            "id": "26",
+            "bandara": "Bandar Udara Haluoleo",
+            "provinsi": "Sulawesi Tenggara",
+            "kota": "Kendari"
+        },
+        {
+            "id": "27",
+            "bandara": "Bandar Udara Pattimura",
+            "provinsi": "Maluku",
+            "kota": "Ambon"
+        },
+        {
+            "id": "28",
+            "bandara": "Bandar Udara Mutiara",
+            "provinsi": "Sulawesi Tengah",
+            "kota": "Palu"
+        },
+        {
+            "id": "29",
+            "bandara": "Bandar Udara Abdul Rachman Saleh",
+            "provinsi": "Jawa Timur",
+            "kota": "Malang"
+        },
+        {
+            "id": "30",
+            "bandara": "Bandar Udara Internasional Sultan Iskandar Muda",
+            "provinsi": "Aceh",
+            "kota": "Banda Aceh"
+        },
+        {
+            "id": "31",
+            "bandara": "Bandar Udara Fatmawati Soekarno",
+            "provinsi": "Bengkulu",
+            "kota": "Kota Bengkulu"
+        },
+        {
+            "id": "32",
+            "bandara": "Bandar Udara Internasional H.A.S. Hanandjoeddin",
+            "provinsi": "Bangka Belitung",
+            "kota": "Tanjung Pandan"
+        },
+        {
+            "id": "33",
+            "bandara": "Bandar Udara Internasional Juwata",
+            "provinsi": "Kalimantan Utara",
+            "kota": "Tarakan"
+        },
+        {
+            "id": "34",
+            "bandara": "Bandar Udara Tjilik Riwut",
+            "provinsi": "Kalimantan Tengah",
+            "kota": "Palangkaraya"
+        },
+        {
+            "id": "35",
+            "bandara": "Bandar Udara Sultan Babullah",
+            "provinsi": "Maluku Utara",
+            "kota": "Ternate"
+        },
+        {
+            "id": "36",
+            "bandara": "Bandar Udara Rendani",
+            "provinsi": "Papua Barat",
+            "kota": "Manokwari"
+        },
+        {
+            "id": "37",
+            "bandara": "Bandar Udara Jalaluddin",
+            "provinsi": "Gorontalo",
+            "kota": "Kota Gorontalo"
+        },
+        {
+            "id": "38",
+            "bandara": "Bandar Udara Iskandar",
+            "provinsi": "Kalimantan Tengah",
+            "kota": "Pangkalan Bun"
+        },
+        {
+            "id": "39",
+            "bandara": "Bandar Udara Kalimarau",
+            "provinsi": "Kalimantan Timur",
+            "kota": "Tanjung Redeb"
+        },
+        {
+            "id": "40",
+            "bandara": "Bandar Udara Komodo",
+            "provinsi": "Nusa Tenggara Timur",
+            "kota": "Labuan Bajo"
+        },
+        {
+            "id": "41",
+            "bandara": "Bandar Udara H. Asan",
+            "provinsi": "Kalimantan Tengah",
+            "kota": "Sampit"
+        },
+        {
+            "id": "42",
+            "bandara": "Bandar Udara Internasional Mopah",
+            "provinsi": "Papua",
+            "kota": "Merauke"
+        },
+        {
+            "id": "43",
+            "bandara": "Bandar Udara Rahadi Osman",
+            "provinsi": "Kalimantan Barat",
+            "kota": "Ketapang"
+        },
+        {
+            "id": "44",
+            "bandara": "Bandar Udara Sultan Muhammad Salahuddin",
+            "provinsi": "Nusa Tenggara Barat",
+            "kota": "Bima"
+        },
+        {
+            "id": "45",
+            "bandara": "Bandar Udara Internasional Raja Haji Fisabilillah",
+            "provinsi": "Kepulauan Riau",
+            "kota": "Tanjung Pinang"
+        },
+        {
+            "id": "46",
+            "bandara": "Bandar Udara Frans Kaisiepo",
+            "provinsi": "Papua",
+            "kota": "Biak"
+        },
+        {
+            "id": "47",
+            "bandara": "Bandar Udara Wamena",
+            "provinsi": "Papua",
+            "kota": "Wamena"
+        },
+        {
+            "id": "48",
+            "bandara": "Bandar Udara Internasional Aji Pangeran Tumenggung Pranoto",
+            "provinsi": "Kalimantan Timur",
+            "kota": "Samarinda"
+        },
+        {
+            "id": "49",
+            "bandara": "Bandar Udara Binaka",
+            "provinsi": "Sumatra Utara",
+            "kota": "Gunung Sitoli"
+        },
+        {
+            "id": "50",
+            "bandara": "Bandar Udara Betoambari",
+            "provinsi": "Sulawesi Tenggara",
+            "kota": "Baubau"
+        },
+        {
+            "id": "51",
+            "bandara": "Bandar Udara H. Hasan Aroeboesman",
+            "provinsi": "Nusa Tenggara Timur",
+            "kota": "Ende"
+        },
+        {
+            "id": "52",
+            "bandara": "Bandar Udara Mozes Kilangin",
+            "provinsi": "Papua",
+            "kota": "Timika"
+        }
+    ]
