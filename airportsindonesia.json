@@ -1,961 +1,963 @@
-[
-    {
-        "code": "CGK",
-        "city": "Jakarta",
-        "airport": "Soekarno-Hatta International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SUB",
-        "city": "Surabaya",
-        "airport": "Juanda International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DPS",
-        "city": "Denpasar",
-        "airport": "Ngurah Rai (Bali) International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "UPG",
-        "city": "Makassar",
-        "airport": "Hasanuddin International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BPN",
-        "city": "Balikpapan",
-        "airport": "Sultan Aji Muhamad Sulaiman Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "JOG",
-        "city": "Yogyakarta",
-        "airport": "Adi Sutjipto International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SRG",
-        "city": "Semarang",
-        "airport": "Achmad Yani Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BTH",
-        "city": "Batam",
-        "airport": "Hang Nadim International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PKU",
-        "city": "Pekanbaru",
-        "airport": "Sultan Syarif Kasim Ii (Simpang Tiga) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "ARD",
-        "city": "Alor",
-        "airport": "Mali Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "AMQ",
-        "city": "Ambon",
-        "airport": "Pattimura",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BTJ",
-        "city": "Banda Aceh",
-        "airport": "Sultan Iskandar Muda International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TKG",
-        "city": "Bandar Lampung",
-        "airport": "Radin Inten II (Branti) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BDO",
-        "city": "Bandung",
-        "airport": "Husein Sastranegara International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BDJ",
-        "city": "Banjarmasin",
-        "airport": "Syamsudin Noor Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BWX",
-        "city": "Banyuwangi",
-        "airport": "Blimbingsari Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BUW",
-        "city": "Baubau",
-        "airport": "Betoambari Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BKS",
-        "city": "Bengkulu",
-        "airport": "Fatmawati Soekarno Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BEJ",
-        "city": "Berau",
-        "airport": "Kalimarau Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BIK",
-        "city": "Biak",
-        "airport": "Frans Kaisiepo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BMU",
-        "city": "Bima",
-        "airport": "Muhammad Salahuddin Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "ENE",
-        "city": "Ende",
-        "airport": "Ende (H Hasan Aroeboesman) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "FKQ",
-        "city": "Fak Fak",
-        "airport": "Fakfak Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "GTO",
-        "city": "Gorontalo",
-        "airport": "Jalaluddin Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "GNS",
-        "city": "Gunung Sitoli",
-        "airport": "Binaka Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "HLP",
-        "city": "Jakarta Halim",
-        "airport": "Halim Perdanakusuma International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DJB",
-        "city": "Jambi",
-        "airport": "Sultan Thaha Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DJJ",
-        "city": "Jayapura",
-        "airport": "Sentani International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KBU",
-        "city": "Kotabaru",
-        "airport": "Gusti Sjamsir Alam",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KNG",
-        "city": "Kaimana",
-        "airport": "Kaimana Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KDI",
-        "city": "Kendari",
-        "airport": "Wolter Monginsidi Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KTG",
-        "city": "Ketapang",
-        "airport": "Ketapang(Rahadi Usman) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KOE",
-        "city": "Kupang",
-        "airport": "El Tari Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LBJ",
-        "city": "Labuan Bajo",
-        "airport": "Komodo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LAH",
-        "city": "Labuha",
-        "airport": "Labuha Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LKA",
-        "city": "Larantuka",
-        "airport": "Gewayantana",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LSW",
-        "city": "Lhokseumawe",
-        "airport": "Malikus Saleh Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LOP",
-        "city": "Lombok",
-        "airport": "Lombok International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LUW",
-        "city": "Luwuk",
-        "airport": "Syukuran Aminuddin Amir Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MLG",
-        "city": "Malang",
-        "airport": "Abdul Rachman Saleh Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MJU",
-        "city": "Mamuju",
-        "airport": "Tampa Padang",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MDC",
-        "city": "Manado",
-        "airport": "Sam Ratulangi Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MKW",
-        "city": "Manokwari",
-        "airport": "Rendani Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MOF",
-        "city": "Maumere",
-        "airport": "Maumere(Wai Oti) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KNO",
-        "city": "Medan",
-        "airport": "Kualanamu International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MNA",
-        "city": "Melonguane",
-        "airport": "Melangguane Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MKQ",
-        "city": "Merauke",
-        "airport": "Mopah Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MEQ",
-        "city": "Meulaboh",
-        "airport": "Seunagan Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "NBX",
-        "city": "Nabire",
-        "airport": "Nabire Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "NTX",
-        "city": "Natuna",
-        "airport": "Ranai Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "NNX",
-        "city": "Nunukan",
-        "airport": "Nunukan Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PDG",
-        "city": "Padang",
-        "airport": "Minangkabau International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PKY",
-        "city": "Palangkaraya",
-        "airport": "Tjilik Riwut Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PLM",
-        "city": "Palembang",
-        "airport": "Sultan Mahmud Badaruddin II Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PLW",
-        "city": "Palu",
-        "airport": "Mutiara Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PGK",
-        "city": "Pangkal Pinang",
-        "airport": "Pangkal Pinang (Depati Amir) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PKN",
-        "city": "Pangkalan Bun",
-        "airport": "Iskandar Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PUM",
-        "city": "Pomala",
-        "airport": "Sangia Nibandera Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PNK",
-        "city": "Pontianak",
-        "airport": "Supadio Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PSJ",
-        "city": "Poso",
-        "airport": "Kasiguncu Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "RTG",
-        "city": "Ruteng",
-        "airport": "Frans Sales Lega Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SMQ",
-        "city": "Sampit",
-        "airport": "Sampit(Hasan) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "FLZ",
-        "city": "Sibolga",
-        "airport": "Dr Ferdinand Lumban Tobing Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DTB",
-        "city": "Silangit",
-        "airport": "Silangit Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SOC",
-        "city": "Solo",
-        "airport": "Adi Sumarmo Wiryokusumo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SOQ",
-        "city": "Sorong",
-        "airport": "Dominique Edward Osok Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SWQ",
-        "city": "Sumbawa",
-        "airport": "Sumbawa Besar Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "NAH",
-        "city": "Tahuna",
-        "airport": "Naha Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TMC",
-        "city": "Tambolaka",
-        "airport": "Tambolaka Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TJQ",
-        "city": "Tanjung Pandan-belitung",
-        "airport": "Buluh Tumbang (H A S Hanandjoeddin) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TNJ",
-        "city": "Tanjung Pinang",
-        "airport": "Raja Haji Fisabilillah International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TRK",
-        "city": "Tarakan",
-        "airport": "Juwata Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TTE",
-        "city": "Ternate",
-        "airport": "Sultan Khairun Babullah Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TIM",
-        "city": "Timika",
-        "airport": "Moses Kilangin Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KAZ",
-        "city": "Tobelo",
-        "airport": "Kao Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LUV",
-        "city": "Langgur",
-        "airport": "Dumatumbun Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "WGP",
-        "city": "Waingapu",
-        "airport": "Umbu Mehang Kunda Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "WNI",
-        "city": "Wakatobi",
-        "airport": "Matahora",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "AAP",
-        "city": "Samarinda",
-        "airport": "Apt Pranoto",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BJW",
-        "city": "Bajawa",
-        "airport": "Bajawa Soa Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BTW",
-        "city": "Batu Licin",
-        "airport": "Batu Licin Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "CJN",
-        "city": "Pangandaran",
-        "airport": "Nusawiru Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "CXP",
-        "city": "Cilacap",
-        "airport": "Tunggul Wulung Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DOB",
-        "city": "Dobo, Maluku Tenggara",
-        "airport": "Rar Gwamar Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DUM",
-        "city": "Dumai",
-        "airport": "Pinang Kampai Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "GLX",
-        "city": "Galela",
-        "airport": "Gamar Malamo",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KRC",
-        "city": "Kerinici",
-        "airport": "Departi Parbo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KWB",
-        "city": "Karimun Jawa",
-        "airport": "Dewadaru - Kemujan Island",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LII",
-        "city": "Mulia, Papua",
-        "airport": "Mulia Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LKI",
-        "city": "Lubuk Linggau",
-        "airport": "Silampari Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LLJ",
-        "city": "Lubuk Linggau ( Sj )",
-        "airport": "Silampari Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LWE",
-        "city": "Lewoleba",
-        "airport": "Wonopito Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MKF",
-        "city": "Miangas ",
-        "airport": "Miangas Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PXA",
-        "city": "Pagar Alam",
-        "airport": "Atung Bungsu",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MOH",
-        "city": "Morowali",
-        "airport": "Maleo",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MPC",
-        "city": "Mukomuko",
-        "airport": "Mukomuko Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BUU",
-        "city": "Bungo",
-        "airport": "Muara Bungo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MWK",
-        "city": "Anambas",
-        "airport": "Tarempa Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MWS",
-        "city": "Muara Bungo",
-        "airport": "Muara Bungo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "NAM",
-        "city": "Namlea",
-        "airport": "Namlea Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "NRE",
-        "city": "Namrole, Buru ",
-        "airport": "Namrole Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "OKL",
-        "city": "Oksibil, Papua",
-        "airport": "Oksibil Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "OTI",
-        "city": "Morotai",
-        "airport": "Pitu Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "PSU",
-        "city": "Putussibau",
-        "airport": "Pangsuma Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "RAQ",
-        "city": "Raha Muna",
-        "airport": "Sugimanuru Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "RGT",
-        "city": "Rengat",
-        "airport": "Japura Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "RTI",
-        "city": "Rote",
-        "airport": "Roti Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SBG",
-        "city": "Sabang",
-        "airport": "Maimun Saleh Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SIQ",
-        "city": "Singkep, Kabupaten Lingga, Provinsi Kepulauan Riau",
-        "airport": "Dabo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SQG",
-        "city": "Sintang",
-        "airport": "Sintang(Susilo) Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SQR",
-        "city": "Soroako",
-        "airport": "Soroako Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SUP",
-        "city": "Sumenep",
-        "airport": "Trunojoyo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SXK",
-        "city": "Saumlaki",
-        "airport": "Saumlaki/Olilit Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TJS",
-        "city": "Tanjung Selor",
-        "airport": "Tanjung Harapan Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TLI",
-        "city": "Tolitoli",
-        "airport": "Sultan Bantilan Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TMH",
-        "city": "Tanah Merah, Papua",
-        "airport": "Tanah Merah Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TRT",
-        "city": "Tana Toraja",
-        "airport": "Toraja Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "UOL",
-        "city": "Buol",
-        "airport": "Buol Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "WMX",
-        "city": "Wamena",
-        "airport": "Wamena Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "JBB",
-        "city": "Jember",
-        "airport": "Noto Hadinegoro",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "RJM",
-        "city": "Raja Ampat",
-        "airport": "Marinda Raja Ampat Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "VPM",
-        "city": "Ampana",
-        "airport": "Tanjung Api Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LLO",
-        "city": "Palopo",
-        "airport": "Lagaligo Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TXE",
-        "city": "Takengon",
-        "airport": "Takengon Rembele Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "DEX",
-        "city": "Yahukimo",
-        "airport": "Nop Goliat Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MLK",
-        "city": "Melak",
-        "airport": "Melalan",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "AEG",
-        "city": "Tapanuli Selatan",
-        "airport": "Aek Godang Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "SMG",
-        "city": "Simeuleu",
-        "airport": "Lasikin",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "MWW",
-        "city": "Malinau - Lion",
-        "airport": "Robert Atti Bessing",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "TSY",
-        "city": "Tasikmalaya",
-        "airport": "Cibeureum Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KJT",
-        "city": "Majalengka",
-        "airport": "Kertajati International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LMU",
-        "city": "Anambas",
-        "airport": "Letung",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "LNU",
-        "city": "Malinau",
-        "airport": "Robert Atty Bessing",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "YIA",
-        "city": "Yogyakarta Kulonprogo",
-        "airport": "Yogyakarta International Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "OJU",
-        "city": "Ampana",
-        "airport": "Tanjung Api Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "KXB",
-        "city": "Kolaka",
-        "airport": "Sangia Nibandera Kolaka Airport",
-        "grup": "lokal",
-        "status": "ON"
-    },
-    {
-        "code": "BXW",
-        "city": "Pulau Bawean, Kab Gresik",
-        "airport": "Harun Thohir ",
-        "grup": "lokal",
-        "status": "ON"
-    }
-]
+{
+    "dataAirport": [
+        {
+            "code": "CGK",
+            "city": "Jakarta",
+            "airport": "Soekarno-Hatta International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SUB",
+            "city": "Surabaya",
+            "airport": "Juanda International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DPS",
+            "city": "Denpasar",
+            "airport": "Ngurah Rai (Bali) International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "UPG",
+            "city": "Makassar",
+            "airport": "Hasanuddin International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BPN",
+            "city": "Balikpapan",
+            "airport": "Sultan Aji Muhamad Sulaiman Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "JOG",
+            "city": "Yogyakarta",
+            "airport": "Adi Sutjipto International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SRG",
+            "city": "Semarang",
+            "airport": "Achmad Yani Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BTH",
+            "city": "Batam",
+            "airport": "Hang Nadim International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PKU",
+            "city": "Pekanbaru",
+            "airport": "Sultan Syarif Kasim Ii (Simpang Tiga) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "ARD",
+            "city": "Alor",
+            "airport": "Mali Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "AMQ",
+            "city": "Ambon",
+            "airport": "Pattimura",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BTJ",
+            "city": "Banda Aceh",
+            "airport": "Sultan Iskandar Muda International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TKG",
+            "city": "Bandar Lampung",
+            "airport": "Radin Inten II (Branti) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BDO",
+            "city": "Bandung",
+            "airport": "Husein Sastranegara International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BDJ",
+            "city": "Banjarmasin",
+            "airport": "Syamsudin Noor Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BWX",
+            "city": "Banyuwangi",
+            "airport": "Blimbingsari Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BUW",
+            "city": "Baubau",
+            "airport": "Betoambari Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BKS",
+            "city": "Bengkulu",
+            "airport": "Fatmawati Soekarno Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BEJ",
+            "city": "Berau",
+            "airport": "Kalimarau Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BIK",
+            "city": "Biak",
+            "airport": "Frans Kaisiepo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BMU",
+            "city": "Bima",
+            "airport": "Muhammad Salahuddin Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "ENE",
+            "city": "Ende",
+            "airport": "Ende (H Hasan Aroeboesman) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "FKQ",
+            "city": "Fak Fak",
+            "airport": "Fakfak Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "GTO",
+            "city": "Gorontalo",
+            "airport": "Jalaluddin Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "GNS",
+            "city": "Gunung Sitoli",
+            "airport": "Binaka Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "HLP",
+            "city": "Jakarta Halim",
+            "airport": "Halim Perdanakusuma International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DJB",
+            "city": "Jambi",
+            "airport": "Sultan Thaha Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DJJ",
+            "city": "Jayapura",
+            "airport": "Sentani International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KBU",
+            "city": "Kotabaru",
+            "airport": "Gusti Sjamsir Alam",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KNG",
+            "city": "Kaimana",
+            "airport": "Kaimana Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KDI",
+            "city": "Kendari",
+            "airport": "Wolter Monginsidi Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KTG",
+            "city": "Ketapang",
+            "airport": "Ketapang(Rahadi Usman) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KOE",
+            "city": "Kupang",
+            "airport": "El Tari Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LBJ",
+            "city": "Labuan Bajo",
+            "airport": "Komodo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LAH",
+            "city": "Labuha",
+            "airport": "Labuha Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LKA",
+            "city": "Larantuka",
+            "airport": "Gewayantana",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LSW",
+            "city": "Lhokseumawe",
+            "airport": "Malikus Saleh Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LOP",
+            "city": "Lombok",
+            "airport": "Lombok International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LUW",
+            "city": "Luwuk",
+            "airport": "Syukuran Aminuddin Amir Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MLG",
+            "city": "Malang",
+            "airport": "Abdul Rachman Saleh Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MJU",
+            "city": "Mamuju",
+            "airport": "Tampa Padang",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MDC",
+            "city": "Manado",
+            "airport": "Sam Ratulangi Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MKW",
+            "city": "Manokwari",
+            "airport": "Rendani Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MOF",
+            "city": "Maumere",
+            "airport": "Maumere(Wai Oti) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KNO",
+            "city": "Medan",
+            "airport": "Kualanamu International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MNA",
+            "city": "Melonguane",
+            "airport": "Melangguane Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MKQ",
+            "city": "Merauke",
+            "airport": "Mopah Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MEQ",
+            "city": "Meulaboh",
+            "airport": "Seunagan Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "NBX",
+            "city": "Nabire",
+            "airport": "Nabire Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "NTX",
+            "city": "Natuna",
+            "airport": "Ranai Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "NNX",
+            "city": "Nunukan",
+            "airport": "Nunukan Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PDG",
+            "city": "Padang",
+            "airport": "Minangkabau International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PKY",
+            "city": "Palangkaraya",
+            "airport": "Tjilik Riwut Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PLM",
+            "city": "Palembang",
+            "airport": "Sultan Mahmud Badaruddin II Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PLW",
+            "city": "Palu",
+            "airport": "Mutiara Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PGK",
+            "city": "Pangkal Pinang",
+            "airport": "Pangkal Pinang (Depati Amir) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PKN",
+            "city": "Pangkalan Bun",
+            "airport": "Iskandar Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PUM",
+            "city": "Pomala",
+            "airport": "Sangia Nibandera Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PNK",
+            "city": "Pontianak",
+            "airport": "Supadio Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PSJ",
+            "city": "Poso",
+            "airport": "Kasiguncu Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "RTG",
+            "city": "Ruteng",
+            "airport": "Frans Sales Lega Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SMQ",
+            "city": "Sampit",
+            "airport": "Sampit(Hasan) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "FLZ",
+            "city": "Sibolga",
+            "airport": "Dr Ferdinand Lumban Tobing Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DTB",
+            "city": "Silangit",
+            "airport": "Silangit Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SOC",
+            "city": "Solo",
+            "airport": "Adi Sumarmo Wiryokusumo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SOQ",
+            "city": "Sorong",
+            "airport": "Dominique Edward Osok Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SWQ",
+            "city": "Sumbawa",
+            "airport": "Sumbawa Besar Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "NAH",
+            "city": "Tahuna",
+            "airport": "Naha Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TMC",
+            "city": "Tambolaka",
+            "airport": "Tambolaka Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TJQ",
+            "city": "Tanjung Pandan-belitung",
+            "airport": "Buluh Tumbang (H A S Hanandjoeddin) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TNJ",
+            "city": "Tanjung Pinang",
+            "airport": "Raja Haji Fisabilillah International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TRK",
+            "city": "Tarakan",
+            "airport": "Juwata Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TTE",
+            "city": "Ternate",
+            "airport": "Sultan Khairun Babullah Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TIM",
+            "city": "Timika",
+            "airport": "Moses Kilangin Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KAZ",
+            "city": "Tobelo",
+            "airport": "Kao Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LUV",
+            "city": "Langgur",
+            "airport": "Dumatumbun Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "WGP",
+            "city": "Waingapu",
+            "airport": "Umbu Mehang Kunda Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "WNI",
+            "city": "Wakatobi",
+            "airport": "Matahora",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "AAP",
+            "city": "Samarinda",
+            "airport": "Apt Pranoto",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BJW",
+            "city": "Bajawa",
+            "airport": "Bajawa Soa Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BTW",
+            "city": "Batu Licin",
+            "airport": "Batu Licin Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "CJN",
+            "city": "Pangandaran",
+            "airport": "Nusawiru Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "CXP",
+            "city": "Cilacap",
+            "airport": "Tunggul Wulung Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DOB",
+            "city": "Dobo, Maluku Tenggara",
+            "airport": "Rar Gwamar Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DUM",
+            "city": "Dumai",
+            "airport": "Pinang Kampai Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "GLX",
+            "city": "Galela",
+            "airport": "Gamar Malamo",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KRC",
+            "city": "Kerinici",
+            "airport": "Departi Parbo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KWB",
+            "city": "Karimun Jawa",
+            "airport": "Dewadaru - Kemujan Island",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LII",
+            "city": "Mulia, Papua",
+            "airport": "Mulia Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LKI",
+            "city": "Lubuk Linggau",
+            "airport": "Silampari Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LLJ",
+            "city": "Lubuk Linggau ( Sj )",
+            "airport": "Silampari Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LWE",
+            "city": "Lewoleba",
+            "airport": "Wonopito Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MKF",
+            "city": "Miangas ",
+            "airport": "Miangas Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PXA",
+            "city": "Pagar Alam",
+            "airport": "Atung Bungsu",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MOH",
+            "city": "Morowali",
+            "airport": "Maleo",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MPC",
+            "city": "Mukomuko",
+            "airport": "Mukomuko Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BUU",
+            "city": "Bungo",
+            "airport": "Muara Bungo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MWK",
+            "city": "Anambas",
+            "airport": "Tarempa Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MWS",
+            "city": "Muara Bungo",
+            "airport": "Muara Bungo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "NAM",
+            "city": "Namlea",
+            "airport": "Namlea Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "NRE",
+            "city": "Namrole, Buru ",
+            "airport": "Namrole Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "OKL",
+            "city": "Oksibil, Papua",
+            "airport": "Oksibil Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "OTI",
+            "city": "Morotai",
+            "airport": "Pitu Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "PSU",
+            "city": "Putussibau",
+            "airport": "Pangsuma Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "RAQ",
+            "city": "Raha Muna",
+            "airport": "Sugimanuru Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "RGT",
+            "city": "Rengat",
+            "airport": "Japura Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "RTI",
+            "city": "Rote",
+            "airport": "Roti Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SBG",
+            "city": "Sabang",
+            "airport": "Maimun Saleh Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SIQ",
+            "city": "Singkep, Kabupaten Lingga, Provinsi Kepulauan Riau",
+            "airport": "Dabo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SQG",
+            "city": "Sintang",
+            "airport": "Sintang(Susilo) Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SQR",
+            "city": "Soroako",
+            "airport": "Soroako Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SUP",
+            "city": "Sumenep",
+            "airport": "Trunojoyo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SXK",
+            "city": "Saumlaki",
+            "airport": "Saumlaki/Olilit Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TJS",
+            "city": "Tanjung Selor",
+            "airport": "Tanjung Harapan Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TLI",
+            "city": "Tolitoli",
+            "airport": "Sultan Bantilan Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TMH",
+            "city": "Tanah Merah, Papua",
+            "airport": "Tanah Merah Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TRT",
+            "city": "Tana Toraja",
+            "airport": "Toraja Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "UOL",
+            "city": "Buol",
+            "airport": "Buol Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "WMX",
+            "city": "Wamena",
+            "airport": "Wamena Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "JBB",
+            "city": "Jember",
+            "airport": "Noto Hadinegoro",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "RJM",
+            "city": "Raja Ampat",
+            "airport": "Marinda Raja Ampat Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "VPM",
+            "city": "Ampana",
+            "airport": "Tanjung Api Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LLO",
+            "city": "Palopo",
+            "airport": "Lagaligo Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TXE",
+            "city": "Takengon",
+            "airport": "Takengon Rembele Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "DEX",
+            "city": "Yahukimo",
+            "airport": "Nop Goliat Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MLK",
+            "city": "Melak",
+            "airport": "Melalan",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "AEG",
+            "city": "Tapanuli Selatan",
+            "airport": "Aek Godang Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "SMG",
+            "city": "Simeuleu",
+            "airport": "Lasikin",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "MWW",
+            "city": "Malinau - Lion",
+            "airport": "Robert Atti Bessing",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "TSY",
+            "city": "Tasikmalaya",
+            "airport": "Cibeureum Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KJT",
+            "city": "Majalengka",
+            "airport": "Kertajati International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LMU",
+            "city": "Anambas",
+            "airport": "Letung",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "LNU",
+            "city": "Malinau",
+            "airport": "Robert Atty Bessing",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "YIA",
+            "city": "Yogyakarta Kulonprogo",
+            "airport": "Yogyakarta International Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "OJU",
+            "city": "Ampana",
+            "airport": "Tanjung Api Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "KXB",
+            "city": "Kolaka",
+            "airport": "Sangia Nibandera Kolaka Airport",
+            "grup": "lokal",
+            "status": "ON"
+        },
+        {
+            "code": "BXW",
+            "city": "Pulau Bawean, Kab Gresik",
+            "airport": "Harun Thohir ",
+            "grup": "lokal",
+            "status": "ON"
+        }
+    ]
+}
