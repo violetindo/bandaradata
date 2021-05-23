@@ -1,0 +1,1196 @@
+{
+    "Sheet1": [
+        {
+            "Kode Penerbangan": "BTJ",
+            "Kota": "Banda Aceh",
+            "Provinsi": "Aceh",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "LSX",
+            "Kota": "Lhok Sukon",
+            "Provinsi": "Aceh",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "MEQ",
+            "Kota": "Meulaboh",
+            "Provinsi": "Aceh",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PKN",
+            "Kota": "Pangkalan Bun",
+            "Provinsi": "Aceh",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SBG",
+            "Kota": "Sabang",
+            "Provinsi": "Aceh",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "TPK",
+            "Kota": "Tapak Tuan",
+            "Provinsi": "Aceh",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "DPS",
+            "Kota": "Denpasar",
+            "Provinsi": "Bali",
+            "Pulau": "Bali",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "PGK",
+            "Kota": "Pangkal Pinang",
+            "Provinsi": "Bangka Belitung",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "CGK",
+            "Kota": "Cengkareng",
+            "Provinsi": "Banten",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "BKS",
+            "Kota": "Bengkulu",
+            "Provinsi": "Bengkulu",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "MPC",
+            "Kota": "Bengkulu",
+            "Provinsi": "Bengkulu",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "JOG",
+            "Kota": "Yogyakarta",
+            "Provinsi": "DIY Yogyakarta",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "HLP",
+            "Kota": "Jakarta",
+            "Provinsi": "DKI Jakarta",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "JKT",
+            "Kota": "Jakarta City",
+            "Provinsi": "DKI Jakarta",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PCB",
+            "Kota": "Jakarta",
+            "Provinsi": "DKI Jakarta",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "LBJ",
+            "Kota": "Labuhan Bajo",
+            "Provinsi": "Flores",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "LKA",
+            "Kota": "Larantuka",
+            "Provinsi": "Flores Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "GLX",
+            "Kota": "Galela",
+            "Provinsi": "Halmahera Utara",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "AAS",
+            "Kota": "Apalapsili, Yalimo",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "AGD",
+            "Kota": "Anggi, Manokwari",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "AHI",
+            "Kota": "Amahai",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "ARJ",
+            "Kota": "Arso, Keerom",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "AYW",
+            "Kota": "Ayawasi, Maybrat",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "BIK",
+            "Kota": "Biak",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "BUI",
+            "Kota": "Bokondini, Tolikara",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "BXB",
+            "Kota": "Babo, Teluk Bintuni",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "BXD",
+            "Kota": "Bade, Merauke",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "BXM",
+            "Kota": "Batom, Jayawijaya",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "DJJ",
+            "Kota": "Jayapura",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "EWI",
+            "Kota": "Enarotali, Paniai",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "FKQ",
+            "Kota": "Fak Fak",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "FOO",
+            "Kota": "Numfor, Biak",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "ILA",
+            "Kota": "Ilaga",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "INX",
+            "Kota": "Inanwatan, Sorong Selatan",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "KEI",
+            "Kota": "Kepi, Merauke",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "KEQ",
+            "Kota": "Kebar, Manokwari",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "KNG",
+            "Kota": "Kaimana",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "LHI",
+            "Kota": "Lereh, Jayapura",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "LII",
+            "Kota": "Mulia",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "MDP",
+            "Kota": "Mindiptana, Boven Digoel",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "MKQ",
+            "Kota": "Merauke",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "MKW",
+            "Kota": "Manokwari",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "NBX",
+            "Kota": "Nabire",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "OKL",
+            "Kota": "Oksibil, Pengunungan Bintang",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "OKQ",
+            "Kota": "Okaba, Merauke",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "ONI",
+            "Kota": "Moanamani, Dogiyal",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "RDE",
+            "Kota": "Merdei, Teluk Bintuni",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "RSK",
+            "Kota": "Ranshiki, Manokwari",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "SEH",
+            "Kota": "Senggeh",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "SOQ",
+            "Kota": "Sorong",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "TIM",
+            "Kota": "Tembagapura",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "TMH",
+            "Kota": "Tanah Merah, Boven Digoel",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "TXM",
+            "Kota": "Teminabuan, Sorong",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "WAR",
+            "Kota": "Waris",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "WET",
+            "Kota": "Wagethe",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "WMX",
+            "Kota": "Wamena",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "WSR",
+            "Kota": "Wasior, Teluk Wondama",
+            "Provinsi": "Irian Jaya",
+            "Pulau": "Papua",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "DJB",
+            "Kota": "Jambi",
+            "Provinsi": "Jambi",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "BDO",
+            "Kota": "Bandung",
+            "Provinsi": "Jawa Barat",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "CBN",
+            "Kota": "Cirebon",
+            "Provinsi": "Jawa Barat",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "TSY",
+            "Kota": "Tasikmalaya",
+            "Provinsi": "Jawa Barat",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "CPF",
+            "Kota": "Cepu",
+            "Provinsi": "Jawa Tengah",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "CXP",
+            "Kota": "Cilacap",
+            "Provinsi": "Jawa Tengah",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SOC",
+            "Kota": "Solo",
+            "Provinsi": "Jawa Tengah",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SRG",
+            "Kota": "Semarang",
+            "Provinsi": "Jawa Tengah",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "MLG",
+            "Kota": "Malang",
+            "Provinsi": "Jawa Timur",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SUB",
+            "Kota": "Surabaya",
+            "Provinsi": "Jawa Timur",
+            "Pulau": "Jawa",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "KTG",
+            "Kota": "Ketapang",
+            "Provinsi": "Kalimantan Barat",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "NPO",
+            "Kota": "Melawi",
+            "Provinsi": "Kalimantan Barat",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PNK",
+            "Kota": "Pontianak",
+            "Provinsi": "Kalimantan Barat",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PSU",
+            "Kota": "Putusibau",
+            "Provinsi": "Kalimantan Barat",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SQG",
+            "Kota": "Sintang",
+            "Provinsi": "Kalimantan Barat",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "BDJ",
+            "Kota": "Banjarmasin",
+            "Provinsi": "Kalimantan Selatan",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BTW",
+            "Kota": "Batulicin",
+            "Provinsi": "Kalimantan Selatan",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "KBU",
+            "Kota": "Kotabaru",
+            "Provinsi": "Kalimantan Selatan",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "PKY",
+            "Kota": "Palangkaraya",
+            "Provinsi": "Kalimantan Tengah",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SMQ",
+            "Kota": "Sampit",
+            "Provinsi": "Kalimantan Tengah",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "BEJ",
+            "Kota": "Tanjung Redeb, Berau",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BPN",
+            "Kota": "Balikpapan",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BXT",
+            "Kota": "Bontang",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BYQ",
+            "Kota": "Pulau Bunyu",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "LBW",
+            "Kota": "Long Bawan",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "LPU",
+            "Kota": "Long Apung, Malinau",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "NNX",
+            "Kota": "Nunukan",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "SRI",
+            "Kota": "Samarinda",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TJS",
+            "Kota": "Tanjung Selor",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TNB",
+            "Kota": "Tanah Grogot",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TRK",
+            "Kota": "Tarakan",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TSX",
+            "Kota": "Tanjung Santan",
+            "Provinsi": "Kalimantan Timur",
+            "Pulau": "Kalimantan",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TJQ",
+            "Kota": "Tanjung Pandan",
+            "Provinsi": "Kep. Bangka Belitung",
+            "Pulau": "Kepulauan Bangka",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "NTX",
+            "Kota": "Natuna",
+            "Provinsi": "Kepulauan Riau",
+            "Pulau": "Kepulauan Riau",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "TNJ",
+            "Kota": "Tanjung Pinang",
+            "Provinsi": "Kepulauan Riau",
+            "Pulau": "Kepulauan Riau",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "AKQ",
+            "Kota": "Astraksetra, Tulang Bawang",
+            "Provinsi": "Lampung",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "TKG",
+            "Kota": "Bandar Lampung",
+            "Provinsi": "Lampung",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SUP",
+            "Kota": "Sumenep",
+            "Provinsi": "Madura",
+            "Pulau": "Madura",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "AMQ",
+            "Kota": "Ambon",
+            "Provinsi": "Maluku",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "DOB",
+            "Kota": "Dobo, Kepulauan Aru",
+            "Provinsi": "Maluku",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "NAM",
+            "Kota": "Namlea, Buru",
+            "Provinsi": "Maluku",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "OTI",
+            "Kota": "Morotai",
+            "Provinsi": "Maluku",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "SXK",
+            "Kota": "Saumlaki",
+            "Provinsi": "Maluku",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "TTE",
+            "Kota": "Ternate",
+            "Provinsi": "Maluku",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "BJK",
+            "Kota": "Benjina",
+            "Provinsi": "Maluku Tenggara",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "LUV",
+            "Kota": "Langgur, Tual",
+            "Provinsi": "Maluku Utara",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "MAL",
+            "Kota": "Mangole",
+            "Provinsi": "Maluku Utara",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "SQN",
+            "Kota": "Sanana",
+            "Provinsi": "Muluku Utara",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "TAX",
+            "Kota": "Taliabu",
+            "Provinsi": "Muluku Utara",
+            "Pulau": "Maluku",
+            "Time Zone": "GMT+9",
+            "Waktu Bagian": "WIT"
+        },
+        {
+            "Kode Penerbangan": "AMI",
+            "Kota": "Mataram",
+            "Provinsi": "Nusa Tenggara Barat",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BMU",
+            "Kota": "Bima, Sumbawa",
+            "Provinsi": "Nusa Tenggara Barat",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "SWQ",
+            "Kota": "Sumbawa",
+            "Provinsi": "Nusa Tenggara Barat",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "ABU",
+            "Kota": "Atambua",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "ARD",
+            "Kota": "Pulau Alor",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BJW",
+            "Kota": "Bajawa",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "ENE",
+            "Kota": "Ende",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "KOE",
+            "Kota": "Kupang",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "MOF",
+            "Kota": "Maumere",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "RTG",
+            "Kota": "Ruteng",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TMC",
+            "Kota": "Waikabukak",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "WGP",
+            "Kota": "Waingapu",
+            "Provinsi": "Nusa Tenggara Timur",
+            "Pulau": "Nusa Tenggara",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BTH",
+            "Kota": "Batam",
+            "Provinsi": "Riau",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "DUM",
+            "Kota": "Dumai",
+            "Provinsi": "Riau",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PKU",
+            "Kota": "Pekanbaru",
+            "Provinsi": "Riau",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "RGT",
+            "Kota": "Rengat",
+            "Provinsi": "Riau",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SIQ",
+            "Kota": "Singkep",
+            "Provinsi": "Riau",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "MJU",
+            "Kota": "Mamuju",
+            "Provinsi": "Sulawesi Barat",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "MXB",
+            "Kota": "Masamba",
+            "Provinsi": "Sulawesi Selatan",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "SQR",
+            "Kota": "Soroako",
+            "Provinsi": "Sulawesi Selatan",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "UPG",
+            "Kota": "Makassar",
+            "Provinsi": "Sulawesi Selatan",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "LUW",
+            "Kota": "Luwuk",
+            "Provinsi": "Sulawesi Tengah",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "PLW",
+            "Kota": "Palu",
+            "Provinsi": "Sulawesi Tengah",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "PSJ",
+            "Kota": "Poso",
+            "Provinsi": "Sulawesi Tengah",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "TLI",
+            "Kota": "Toli Toli",
+            "Provinsi": "Sulawesi Tengah",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BUW",
+            "Kota": "Bau Bau, Pulau Buton",
+            "Provinsi": "Sulawesi Tenggara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "KDI",
+            "Kota": "Kendari",
+            "Provinsi": "Sulawesi Tenggara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "BJG",
+            "Kota": "Bolaang Mogondow",
+            "Provinsi": "Sulawesi Utara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "MDC",
+            "Kota": "Manado",
+            "Provinsi": "Sulawesi Utara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "MNA",
+            "Kota": "Melangguane, Telaut",
+            "Provinsi": "Sulawesi Utara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "NAH",
+            "Kota": "Naha, Sangihe",
+            "Provinsi": "Sulawesi Utara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "SAE",
+            "Kota": "Sangir",
+            "Provinsi": "Sulawesi Utara",
+            "Pulau": "Sulawesi",
+            "Time Zone": "GMT+8",
+            "Waktu Bagian": "WITA"
+        },
+        {
+            "Kode Penerbangan": "PDG",
+            "Kota": "Ketaping/Padang",
+            "Provinsi": "Sumatra Barat",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "RKO",
+            "Kota": "Sipora",
+            "Provinsi": "Sumatra Barat",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "KLQ",
+            "Kota": "Keluang",
+            "Provinsi": "Sumatra Selatan",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "LLG",
+            "Kota": "Lubuk Linggau, Musi Rawas",
+            "Provinsi": "Sumatra Selatan",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PDO",
+            "Kota": "Pendopo",
+            "Provinsi": "Sumatra Selatan",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "PLM",
+            "Kota": "Palembang",
+            "Provinsi": "Sumatra Selatan",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "AEG",
+            "Kota": "Padang Sidempuan",
+            "Provinsi": "Sumatra Utara",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "GNS",
+            "Kota": "Gunungsitoli",
+            "Provinsi": "Sumatra Utara",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "MES",
+            "Kota": "Medan",
+            "Provinsi": "Sumatra Utara",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "SQT",
+            "Kota": "Siborong-borong",
+            "Provinsi": "Sumatra Utara",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        },
+        {
+            "Kode Penerbangan": "TJB",
+            "Kota": "Tanjung Balai",
+            "Provinsi": "Sumatra Utara",
+            "Pulau": "Sumatra",
+            "Time Zone": "GMT+7",
+            "Waktu Bagian": "WIB"
+        }
+    ]
+}
